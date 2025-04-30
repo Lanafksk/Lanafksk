@@ -29,3 +29,13 @@
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Lanafksk&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/Lanafksk"
+    width="600"
+    height="300"
+  />
+</a>
+  

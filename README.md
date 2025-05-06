@@ -1,7 +1,7 @@
 <h1>Hey! Good to see you.</h1>
 
 <p>Welcome to my Github! </br> I'm Lana, a SW student of RMIT vietnam. </br> I'm still learning, learning, and learning🤪</p>
-<p>I like to learn or use new technologies or skills to find my way🕵🏻‍♀️. </br> These days, I got some interest in IoT and embedded software engineering.</p>
+<p>I like to learn or use new technologies or skills to find my way🕵🏻‍♀️. 
 
 <h3>🙆🏻‍♀️Things what I've used/learnt</h3>
 <p>  
